@@ -1,0 +1,7 @@
+D:\projects\VSprojects\calcAge\calcAge\bin\calcAge.dll.config
+D:\projects\VSprojects\calcAge\calcAge\bin\calcAge.dll
+D:\projects\VSprojects\calcAge\calcAge\bin\calcAge.pdb
+D:\projects\VSprojects\calcAge\calcAge\obj\Debug\calcAge.csprojAssemblyReference.cache
+D:\projects\VSprojects\calcAge\calcAge\obj\Debug\calcAge.csproj.CoreCompileInputs.cache
+D:\projects\VSprojects\calcAge\calcAge\obj\Debug\calcAge.dll
+D:\projects\VSprojects\calcAge\calcAge\obj\Debug\calcAge.pdb
